@@ -33,14 +33,4 @@
             Count += 1
 ````
 
----
-
-### ✅ Daily Progress Tracker
-
-| 📅 Date    | ✅ What I Did                            | 📌 What to Do Tomorrow                          |
-| ---------- | --------------------------------------- | ----------------------------------------------- |
-| 2025-05-19 | Learnt about Basic Maths | Learn Recursion |
-
----
-
 
